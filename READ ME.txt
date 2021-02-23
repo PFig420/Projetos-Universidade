@@ -1,0 +1,8 @@
+Boa noite/tarde/dia, dependendo de quando ler isto professor.
+Esta versão do trabalho apresenta algumas diferenças, nomeadamente:
+ -Todas as paginas que listam pokemons de certa especie, tipo, geração ou habitat possuem botões para voltar
+atras.
+ - A adição de um quiz, acessível quer pelo conjunto de botões quer pela dropbox na navbar.
+Desejos de tudo de melhor para si.
+P.S.
+	Ainda continuo à espera que o OLX me responda quanto à oferta de patrocínio.
